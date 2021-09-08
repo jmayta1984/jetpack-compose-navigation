@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JetpackViewBinding</string>
+
+    <string name="hello_second_fragment">Second fragment</string>
+    <string name="hello_main_fragment">Main fragment</string>
+    <string name="second_fragment">Second</string>
+</resources>
